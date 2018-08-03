@@ -1,0 +1,2 @@
+# dotnet-gitversion
+A Docker image based on [microsoft/dotnet:2.1-sdk](https://hub.docker.com/r/microsoft/dotnet/) including the latest stable version of [GitVersion](https://github.com/GitTools/GitVersion) (using Mono).
